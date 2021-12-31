@@ -131,17 +131,24 @@ async def start(bot, cmd):
              chat_id=cmd.from_user.id,
              sticker=random.choice(MY_PIC),
              reply_markup=InlineKeyboardMarkup(
-                [
+                 [
                     [
-                        InlineKeyboardButton("➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ➕", url="https://t.me/Makriautofilter_bot?startgroup=true")
-                    ],[
-                        InlineKeyboardButton("sᴇᴀʀᴄʜ", switch_inline_query_current_chat=''),
-                        InlineKeyboardButton("ʜᴇʟᴘ", callback_data="help")
+                        InlineKeyboardButton("🔎Search Here🔍", switch_inline_query_current_chat='')
+                    ],
+                    [
+                        InlineKeyboardButton("🔊channel🔊", url="https://t.me/Filmspoterchannel"),
+                        InlineKeyboardButton("💬group💬",url="https://t.me/Filmspoters")
+                    ],
+                    [
+                        InlineKeyboardButton("⚒Help⚒",callback_data="help"),
+                        InlineKeyboardButton("😎About😎",callback_data="about")
+                    ],
+                    [
+                        InlineKeyboardButton("👨‍💻Dev👨‍💻", url="https://t.me/filmspoteradmin")
                     ]
                 ]
             )
         )
-
 
 @Client.on_message(filters.command('channel') & filters.user(BANANA_BOI))
 async def channel_info(bot, message):
