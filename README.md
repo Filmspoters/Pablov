@@ -77,7 +77,7 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 </p>
 
 <p align="center">
-<a href="https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Filmspoters/Pablov"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fwww.youtube.com%2F&template=https%3A%2F%2Fgithub.com%2Ffilmspoters%2Fdq"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 </p>
 
 ↪️ 𝐑𝐄𝐐𝐔𝐈𝐑𝐄𝐃 ↩️
