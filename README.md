@@ -74,10 +74,7 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 
 <p align="center">
 ↪️ 𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐇𝐄𝐑𝐎𝐊𝐔 ↩️
-</p>
-
-<p align="center">
-<a href="https://youtu.be/NrbMc93aCzA"><img src="[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Filmspoters/Pablov)" border="0" height="125" width="200" align="center" /></a>
+</p>[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Filmspoters/Pablov)" border="0" height="125" width="200" align="center" /></a>
 </p>
 
 ----
