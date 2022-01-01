@@ -1,4 +1,3 @@
-#Kanged From @M_STER_TECH
 from makkiri import AUTH_CHANNEL, AUTH_USERS, CUSTOM_FILE_CAPTION, API_KEY, AUTH_GROUPS
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
 from pyrogram import Client, filters
@@ -149,7 +148,11 @@ async def group(client, message):
             ]]
             reply_markup=InlineKeyboardMarkup(buttons)
             st = await message.reply_text(
-                text="തങ്ങൾ അടിച്ചിരിക്കുന്നത് തെറ്റായ speling ആണ് ദയവായി correct ആയി അടിക്കുക എന്നാൽ മാത്രമേ നിങ്ങൾ ഉദെഷിക്കുന്ന മൂവി ലഭിക്കുകയുള്ളു",
+                text="<b>👋Hey {message.from_user.mention}</b>
+<b>Sorry, No Movie/Series Related to the Given Word Was Found 🥺</b>
+<b>Please Go to Google and Confirm the Correct Spelling 🙏</b>
+<b>Click Here To 👉 <a href='https://www.google.com'>🔍 Search 🔎</a> </b>
+<b>✍Or Your Spelling Is Correct Report To Admins For Add Requested File Example:- @admins kurup</b>""",",
                 reply_markup=reply_markup,
                 reply_to_message_id=message.message_id
             )
