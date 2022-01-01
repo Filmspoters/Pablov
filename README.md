@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Filmspoters/dq/blob/master/dq2.jfif">
+<img src="https://github.com/Filmspoters/dq/blob/master/dq4.jfif">
 </p>
 
 <p align="center">
