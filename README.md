@@ -72,8 +72,6 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 - [x] TelegraPh
 ----
 
-<p align="center">
-↪️ 𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐇𝐄𝐑𝐎𝐊𝐔 ↩️
 # DEPLOY TO HEROKU
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Filmspoters/Pablov)
 
