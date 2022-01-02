@@ -148,7 +148,7 @@ async def group(client, message):
             ]]
             reply_markup=InlineKeyboardMarkup(buttons)
             st = await message.reply_text(
-                text="<b>👋Hey {message.from_user.mention} </b>
+                text="<b> 👋Hey {message.from_user.mention} </b>
 <b>Sorry, No Movie/Series Related to the Given Word Was Found 🥺</b>
 <b>Please Go to Google and Confirm the Correct Spelling 🙏</b>
 <b>Click Here To 👉 <a href='https://www.google.com'>🔍 Search 🔎</a> </b>
